@@ -1,0 +1,15 @@
+{
+  "version": "0.0.3",
+  "notes": "Instalador oficial do udo. Baixe só por aqui ou por useudo.com. Confira o SHA256SUMS.txt.",
+  "pub_date": "2026-10-21T19:38:38.859Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSVVzME5wSm1vSDl0OGVTZ1lYNWRNT01WeW84UGtYR3NUYmR2a05Xek91b0RWYWxTMHdBVDBveHR0VWl3V1Y1MW4wMjFSekxuM2VwcGFqekpia09ZbWkrb3orMU5VTUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjExNTEzCWZpbGU6VURPXzAuMC4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjAuMwovREsyQmppK2NpLzFWS0JVRFhXMzMvRkhhYWo5Tlp3d0FWdWk2aUp3Y09YcVJaWW9zSVV6TXdMNmZwT0hzYUI3TnZzYWVBcHUvUFU3Y3JOUlNTNGJEZz09Cg==",
+      "url": "https://github.com/useudo/udo-releases/releases/download/v0.0.3/UDO_0.0.3_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSVVzME5wSm1vSDl0OGVTZ1lYNWRNT01WeW84UGtYR3NUYmR2a05Xek91b0RWYWxTMHdBVDBveHR0VWl3V1Y1MW4wMjFSekxuM2VwcGFqekpia09ZbWkrb3orMU5VTUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjExNTEzCWZpbGU6VURPXzAuMC4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjAuMwovREsyQmppK2NpLzFWS0JVRFhXMzMvRkhhYWo5Tlp3d0FWdWk2aUp3Y09YcVJaWW9zSVV6TXdMNmZwT0hzYUI3TnZzYWVBcHUvUFU3Y3JOUlNTNGJEZz09Cg==",
+      "url": "https://github.com/useudo/udo-releases/releases/download/v0.0.3/UDO_0.0.3_x64-setup.exe"
+    }
+  }
+}
