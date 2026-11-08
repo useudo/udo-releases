@@ -1,11 +1,11 @@
-# udo — instaladores oficiais
+# oiom — instaladores oficiais
 
 Este repositório guarda **apenas os instaladores oficiais do udo** para Windows.
 O código-fonte não fica aqui.
 
 ## Onde baixar
 
-- **Site oficial (o único):** [useudo.com](https://useudo.com)
+- **Site oficial (o único):** [oiom.app](https://oiom.app)
 - **Instaladores:** na aba [Releases](https://github.com/useudo/udo-releases/releases) deste repositório
 
 Qualquer outro site, link ou arquivo que diga ser o udo **não é oficial**. Não instale.
