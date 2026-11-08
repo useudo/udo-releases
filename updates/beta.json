@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "notes": "Instalador oficial do udo. Baixe só por aqui ou por oiom.app. Confira o SHA256SUMS.txt.",
+  "pub_date": "2026-11-08T03:39:48.331Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSVVzME5wSm1vSC8zZVVydDRNWkQ0QVRabEQvWER1b0NJL3dMNUdRVjNmL1lTRWI0L1l6aHp3WUkyRmI0d1VnUklDRzJwSVpxSTU4dVAwaFFLV1hvMDJEODByTmQ4ZUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTA5MTgzCWZpbGU6T0lPTV8wLjIuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjAKd0hsSTgzV0F5b2FOOTFEMWxsaE95UUtUUlpSSkdybXlhcHFlcnNtYjMyRkZ6Mk1TMXA3TGx2aGJTRGlwUWo1UFVXblB2YjAwVURiY2p0QUNodjEwQ3c9PQo=",
+      "url": "https://github.com/useudo/udo-releases/releases/download/v0.2.0/OIOM_0.2.0_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSVVzME5wSm1vSC8zZVVydDRNWkQ0QVRabEQvWER1b0NJL3dMNUdRVjNmL1lTRWI0L1l6aHp3WUkyRmI0d1VnUklDRzJwSVpxSTU4dVAwaFFLV1hvMDJEODByTmQ4ZUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTA5MTgzCWZpbGU6T0lPTV8wLjIuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjAKd0hsSTgzV0F5b2FOOTFEMWxsaE95UUtUUlpSSkdybXlhcHFlcnNtYjMyRkZ6Mk1TMXA3TGx2aGJTRGlwUWo1UFVXblB2YjAwVURiY2p0QUNodjEwQ3c9PQo=",
+      "url": "https://github.com/useudo/udo-releases/releases/download/v0.2.0/OIOM_0.2.0_x64-setup.exe"
+    }
+  }
+}
