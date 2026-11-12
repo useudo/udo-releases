@@ -1,15 +1,15 @@
 {
-  "version": "0.5.0",
+  "version": "0.5.1",
   "notes": "Instalador oficial do udo. Baixe só por aqui ou por oiom.app. Confira o SHA256SUMS.txt.",
-  "pub_date": "2026-11-12T02:27:28.750Z",
+  "pub_date": "2026-11-12T03:33:07.693Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSVVzME5wSm1vSCt3MzV0c2s5KzhoUXVwcnNkK2Z4ZWhVNnV0b084VWg2b3BpMW9kYVdMbHpPVzRpMlN2OHA3OUNlSHdzNVhzM3RmM3N3eGovZmRQOURGZWFiQXJ1bGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDUwNDQ0CWZpbGU6T0lPTV8wLjUuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC41LjAKb01SVGhiWGRWRUJHSkpMbGNkQWF0Vm9iTHcvQW0zZDEvSHErYU1HL1JjS2NUSmo3VjVrM21uNFRPWHd5dWNOQVEyQlQ5ZTlIRVlXd0Y5RGNDcjRDQ3c9PQo=",
-      "url": "https://github.com/useudo/udo-releases/releases/download/v0.5.0/OIOM_0.5.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSVVzME5wSm1vSDRtUEMweUE4NCtsL3NwRjdqOWZzck1oVlFtYkhuVDRPbkN6YzRkVjJ1ZUN5bVJ5UEFiWnRTMUgzY3JzWDB4UjB2cTE3M1crQTdsbWdST3R6ZUVCTGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDU0MzgzCWZpbGU6T0lPTV8wLjUuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC41LjEKNG9FK09pcXNHcDlPVTFyYzBvUGVyb01CNEtWb1UvQzlobHJsSXJtRVhiWnZldFhkTVVjQm4zbUVvRkhmYzFJSzhpSlA2OG1YZ0F5M3VWSFJoRFFZQ2c9PQo=",
+      "url": "https://github.com/useudo/udo-releases/releases/download/v0.5.1/OIOM_0.5.1_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSVVzME5wSm1vSCt3MzV0c2s5KzhoUXVwcnNkK2Z4ZWhVNnV0b084VWg2b3BpMW9kYVdMbHpPVzRpMlN2OHA3OUNlSHdzNVhzM3RmM3N3eGovZmRQOURGZWFiQXJ1bGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDUwNDQ0CWZpbGU6T0lPTV8wLjUuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC41LjAKb01SVGhiWGRWRUJHSkpMbGNkQWF0Vm9iTHcvQW0zZDEvSHErYU1HL1JjS2NUSmo3VjVrM21uNFRPWHd5dWNOQVEyQlQ5ZTlIRVlXd0Y5RGNDcjRDQ3c9PQo=",
-      "url": "https://github.com/useudo/udo-releases/releases/download/v0.5.0/OIOM_0.5.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSVVzME5wSm1vSDRtUEMweUE4NCtsL3NwRjdqOWZzck1oVlFtYkhuVDRPbkN6YzRkVjJ1ZUN5bVJ5UEFiWnRTMUgzY3JzWDB4UjB2cTE3M1crQTdsbWdST3R6ZUVCTGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDU0MzgzCWZpbGU6T0lPTV8wLjUuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC41LjEKNG9FK09pcXNHcDlPVTFyYzBvUGVyb01CNEtWb1UvQzlobHJsSXJtRVhiWnZldFhkTVVjQm4zbUVvRkhmYzFJSzhpSlA2OG1YZ0F5M3VWSFJoRFFZQ2c9PQo=",
+      "url": "https://github.com/useudo/udo-releases/releases/download/v0.5.1/OIOM_0.5.1_x64-setup.exe"
     }
   }
 }
